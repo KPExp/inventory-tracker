@@ -1,0 +1,14 @@
+{
+  "name": "Inventory Tracker",
+  "appName": "inventory-tracker",
+  "description": "Track inventory items - count current quantities and session totals for items gathered/made and used/consumed",
+  "version": "1.0.0",
+  "author": "Alt1 App Developer",
+  "appUrl": "index.html",
+  "iconUrl": "icon.svg",
+  "defaultWidth": 320,
+  "defaultHeight": 500,
+  "minWidth": 280,
+  "minHeight": 400,
+  "permissions": ["pixel", "overlay"]
+}
